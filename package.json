@@ -1,6 +1,6 @@
 {
-  "homepage": "https://karthikredagani.github.io/ecomm-react-coffee/",
-  "name": "ecomm-react-coffee",
+  "homepage": "https://karthikredagani.github.io/coffee-shop/",
+  "name": "coffee-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
